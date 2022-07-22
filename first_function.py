@@ -9,4 +9,4 @@ def check_guess(guess, word):
             answer += '*'
     return answer
 
-print(check_guess('benny','denna'))
+
